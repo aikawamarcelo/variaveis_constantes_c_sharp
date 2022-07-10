@@ -1,0 +1,15 @@
+C:\Users\FATIMA AIKAWA\Documents\CURSO C# DANILO APARECIDO\06 - FUNÇÕES - C# - TORNE-SE UM PROGRAMADOR\variaveis_constantes\bin\Debug\net6.0\variaveis_constantes.exe
+C:\Users\FATIMA AIKAWA\Documents\CURSO C# DANILO APARECIDO\06 - FUNÇÕES - C# - TORNE-SE UM PROGRAMADOR\variaveis_constantes\bin\Debug\net6.0\variaveis_constantes.deps.json
+C:\Users\FATIMA AIKAWA\Documents\CURSO C# DANILO APARECIDO\06 - FUNÇÕES - C# - TORNE-SE UM PROGRAMADOR\variaveis_constantes\bin\Debug\net6.0\variaveis_constantes.runtimeconfig.json
+C:\Users\FATIMA AIKAWA\Documents\CURSO C# DANILO APARECIDO\06 - FUNÇÕES - C# - TORNE-SE UM PROGRAMADOR\variaveis_constantes\bin\Debug\net6.0\variaveis_constantes.dll
+C:\Users\FATIMA AIKAWA\Documents\CURSO C# DANILO APARECIDO\06 - FUNÇÕES - C# - TORNE-SE UM PROGRAMADOR\variaveis_constantes\bin\Debug\net6.0\variaveis_constantes.pdb
+C:\Users\FATIMA AIKAWA\Documents\CURSO C# DANILO APARECIDO\06 - FUNÇÕES - C# - TORNE-SE UM PROGRAMADOR\variaveis_constantes\obj\Debug\net6.0\variaveis_constantes.csproj.AssemblyReference.cache
+C:\Users\FATIMA AIKAWA\Documents\CURSO C# DANILO APARECIDO\06 - FUNÇÕES - C# - TORNE-SE UM PROGRAMADOR\variaveis_constantes\obj\Debug\net6.0\variaveis_constantes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FATIMA AIKAWA\Documents\CURSO C# DANILO APARECIDO\06 - FUNÇÕES - C# - TORNE-SE UM PROGRAMADOR\variaveis_constantes\obj\Debug\net6.0\variaveis_constantes.AssemblyInfoInputs.cache
+C:\Users\FATIMA AIKAWA\Documents\CURSO C# DANILO APARECIDO\06 - FUNÇÕES - C# - TORNE-SE UM PROGRAMADOR\variaveis_constantes\obj\Debug\net6.0\variaveis_constantes.AssemblyInfo.cs
+C:\Users\FATIMA AIKAWA\Documents\CURSO C# DANILO APARECIDO\06 - FUNÇÕES - C# - TORNE-SE UM PROGRAMADOR\variaveis_constantes\obj\Debug\net6.0\variaveis_constantes.csproj.CoreCompileInputs.cache
+C:\Users\FATIMA AIKAWA\Documents\CURSO C# DANILO APARECIDO\06 - FUNÇÕES - C# - TORNE-SE UM PROGRAMADOR\variaveis_constantes\obj\Debug\net6.0\variaveis_constantes.dll
+C:\Users\FATIMA AIKAWA\Documents\CURSO C# DANILO APARECIDO\06 - FUNÇÕES - C# - TORNE-SE UM PROGRAMADOR\variaveis_constantes\obj\Debug\net6.0\refint\variaveis_constantes.dll
+C:\Users\FATIMA AIKAWA\Documents\CURSO C# DANILO APARECIDO\06 - FUNÇÕES - C# - TORNE-SE UM PROGRAMADOR\variaveis_constantes\obj\Debug\net6.0\variaveis_constantes.pdb
+C:\Users\FATIMA AIKAWA\Documents\CURSO C# DANILO APARECIDO\06 - FUNÇÕES - C# - TORNE-SE UM PROGRAMADOR\variaveis_constantes\obj\Debug\net6.0\variaveis_constantes.genruntimeconfig.cache
+C:\Users\FATIMA AIKAWA\Documents\CURSO C# DANILO APARECIDO\06 - FUNÇÕES - C# - TORNE-SE UM PROGRAMADOR\variaveis_constantes\obj\Debug\net6.0\ref\variaveis_constantes.dll
